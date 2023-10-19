@@ -4,6 +4,8 @@
 
 Resolve over 1500 JException related runtime exceptions that exist in a spring framework. 
 
+<br>
+
 ## Description 
 
 Spring-JException is designed to reduce the inconvenience of handling redundant exceptions and creating error codes by creating a new exception class and wrapping HTTP-related exceptions with runtime exceptions.
